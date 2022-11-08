@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ven0r&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ven0r&count_private=true&show_icons=true&theme=radical)
 
 <!---
 Ven0r/Ven0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
